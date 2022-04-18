@@ -20,6 +20,11 @@ header a {
     text-transform: uppercase;
 }
 
+.foto1 {
+    float: right;
+    margin: 0 0 5px 10px;
+}
+
 footer {
     display: flex;
     align-items: center;
