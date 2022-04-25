@@ -17,6 +17,7 @@ header a {
     padding: 0 50px;
     letter-spacing: .1rem;
     font-weight: 600;
+    color: rgb(0, 68, 0);
     text-decoration: none;
     text-transform: uppercase;
 }
