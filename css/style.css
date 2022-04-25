@@ -21,6 +21,10 @@ header a {
     text-transform: uppercase;
 }
 
+header a:hover {
+    color: red;
+}
+
 .foto1 {
     float: right;
     margin: 0 0 5px 10px;
